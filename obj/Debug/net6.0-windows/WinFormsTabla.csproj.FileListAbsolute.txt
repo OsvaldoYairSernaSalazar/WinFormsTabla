@@ -1,0 +1,16 @@
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.Form1.resources
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.AssemblyInfo.cs
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+C:\Users\Osval\source\repos\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.exe
+C:\Users\Osval\source\repos\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.deps.json
+C:\Users\Osval\source\repos\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.runtimeconfig.json
+C:\Users\Osval\source\repos\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.dll
+C:\Users\Osval\source\repos\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.pdb
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.dll
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\refint\WinFormsTabla.dll
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.pdb
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.genruntimeconfig.cache
+C:\Users\Osval\source\repos\WinFormsTabla\obj\Debug\net6.0-windows\ref\WinFormsTabla.dll
